@@ -24,6 +24,7 @@
   "dependencies": {
     "cacache": "^5.0.0",
     "dezalgo": "^1.0.3",
+    "hosted-git-info": "^2.2.0",
     "inflight": "^1.0.6",
     "mississippi": "^1.2.0",
     "npm-registry-client": "^7.4.1",
